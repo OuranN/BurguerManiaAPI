@@ -61,19 +61,13 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e o [Angular CLI](https://
 
 1. Instale a extensão database client no vs code:
   <div align="center">
-
   ![Home-Page1](ImagesReadme/passo1.png)
-
   </div>
-3. 
-   ```bash
-   npm install
-
-   
-4. Inicie o servidor de desenvolvimento, execute o comando:
-      ```bash
-      ng s
-      
-5. Navegue para http://localhost:4200/ no seu navegador.
   
+2. Ir na sessão database
+   <div align="center">
+  ![Home-Page1](ImagesReadme/passo2.png)
+  </div>
+4. 
+
 
