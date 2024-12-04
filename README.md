@@ -61,12 +61,12 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e o [Angular CLI](https://
 
 1. Instale a extensão database client no vs code:
   <div align="center">
-  ![passo1](ImagesReadme/passo1.png)
+  ![passo2](ImagesReadme/passo2.png)
   </div>
   
 2. Ir na sessão database (opção com simbolo de banco de dados)
    <div align="center">
-  ![passo21](ImagesReadme/passo2.png)
+  ![passo2](ImagesReadme/passo2.png)
   </div>
 3.Create connection
   <div align="center">
