@@ -1,13 +1,11 @@
 # BurguerManiaAPI 🍔🍔🍔
 
-## 🖥️ Como executar o projeto (pelo vs code)
+# 🖥️ Como executar o projeto (pelo vs code)
 
 ## 1. Instale a extensão database client no vs code:
 
   ![passo1](/ImagesReadme/passo1.png)
 
-
-  
 ## 2. Ir na sessão database (opção com simbolo de banco de dados)
 
   ![passo2](/ImagesReadme/passo2.png)
@@ -35,5 +33,5 @@
  ![passo8](/ImagesReadme/passo8.png)
  ![passo9](/ImagesReadme/passo9.png)
 
-## INSTRUÇÕES FRONT-END ESTARÃO NO README DO REPOSITÓRIO:
+## O FRONT-END JÁ ESTÁ INTEGRADO COM ESSA API (INSTRUÇÕES FRONT-END ESTARÃO NO README DO REPOSITÓRIO):
 [REPOSITÓRIO DO FRONT-END](https://github.com/OuranN/BurguerMania.git)
