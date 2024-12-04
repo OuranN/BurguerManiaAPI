@@ -65,24 +65,25 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e o [Angular CLI](https://
   </div>
     <div align="center">
       
-  ![passo1]((ImagesReadme/passo1.png)
+  ![passo1]((/ImagesReadme/passo1.png)
 
   </div>
   
 2. Ir na sessão database (opção com simbolo de banco de dados)
 <div align="center">
-  ![passo2](ImagesReadme/passo2.png)
+  ![passo2](/ImagesReadme/passo2.png)
+   ![Home-Page3](/img/home-page-3.png)
 </div>
 3.Create connection
   <div align="center">
-  ![passo3](ImagesReadme/passo3.png)
+  ![passo3](/ImagesReadme/passo3.png)
   </div>
 4.Selecionar Sqlite
 <div align="center">
-  ![passo4](ImagesReadme/passo4.png)
+  ![passo4](/ImagesReadme/passo4.png)
   </div>
 5.Colocar o caminho do Banco.sqlite
 <div align="center">
-  ![passo5](ImagesReadme/passo5.png)
+  ![passo5](/ImagesReadme/passo5.png)
   </div>
 
