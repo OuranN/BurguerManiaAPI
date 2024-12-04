@@ -25,7 +25,7 @@
    ![passo5](/ImagesReadme/passo51.png)
   ![passo5](/ImagesReadme/passo5.png)
 
-6. Save
+6. Após o Save
 
    ![passo6](/ImagesReadme/passo6.png)
    
