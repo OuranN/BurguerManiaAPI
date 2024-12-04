@@ -61,13 +61,23 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e o [Angular CLI](https://
 
 1. Instale a extensão database client no vs code:
   <div align="center">
-  ![Home-Page1](ImagesReadme/passo1.png)
+  ![passo1](ImagesReadme/passo1.png)
   </div>
   
-2. Ir na sessão database
+2. Ir na sessão database (opção com simbolo de banco de dados)
    <div align="center">
-  ![Home-Page1](ImagesReadme/passo2.png)
+  ![passo21](ImagesReadme/passo2.png)
   </div>
-4. 
-
+3.Create connection
+  <div align="center">
+  ![passo3](ImagesReadme/passo3.png)
+  </div>
+4.Selecionar Sqlite
+<div align="center">
+  ![passo4](ImagesReadme/passo4.png)
+  </div>
+5.Colocar o caminho do Banco.sqlite
+<div align="center">
+  ![passo5](ImagesReadme/passo5.png)
+  </div>
 
