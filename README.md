@@ -2,8 +2,6 @@
 
 ## 📖 EXECUTAR A API
 
-**BurguerManiaAPI** é um CRUD desenvolvida em Angular. Inclui páginas interativas e dinâmicas para exibir categorias de hamburgueres, produtos, e realizar pedidos.
-
 ---
 
 ## 🚀 Páginas
@@ -64,7 +62,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e o [Angular CLI](https://
 1. Instale a extensão database client no vs code:
   <div align="center">
 
-  ![Home-Page1](ImageReadme/passo1.png)
+  ![Home-Page1](ImagesReadme/passo1.png)
 
   </div>
 3. 
