@@ -35,6 +35,5 @@
  ![passo8](/ImagesReadme/passo8.png)
  ![passo9](/ImagesReadme/passo9.png)
 
-## INSTRUÇÕES FRONT-END
-
+## INSTRUÇÕES FRONT-END ESTARÃO NO README DO REPOSITÓRIO:
 [REPOSITÓRIO DO FRONT-END](https://github.com/OuranN/BurguerMania.git)
