@@ -63,6 +63,11 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e o [Angular CLI](https://
   <div align="center">
   ![passo2](ImagesReadme/passo2.png)
   </div>
+    <div align="center">
+      
+  ![passo1]((ImagesReadme/passo1.png)
+
+  </div>
   
 2. Ir na sessão database (opção com simbolo de banco de dados)
 <div align="center">
