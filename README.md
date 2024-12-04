@@ -65,9 +65,9 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e o [Angular CLI](https://
   </div>
   
 2. Ir na sessão database (opção com simbolo de banco de dados)
-   <div align="center">
+<div align="center">
   ![passo2](ImagesReadme/passo2.png)
-  </div>
+</div>
 3.Create connection
   <div align="center">
   ![passo3](ImagesReadme/passo3.png)
