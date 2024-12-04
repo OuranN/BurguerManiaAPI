@@ -2,7 +2,7 @@
 
 # 🖥️ Como executar o projeto (pelo vs code)
 
-### 1. Instale a extensão database client no vs code:
+## 1. Instale a extensão database client no vs code:
 
   ![passo1](/ImagesReadme/passo1.png)
 
