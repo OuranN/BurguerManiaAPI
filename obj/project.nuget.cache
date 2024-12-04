@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qAlyyiQW1xs=",
+  "dgSpecHash": "yOXH3pu2Hsg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\BurguerManiaAPI(1) - Copia\\BurguerManiaAPI\\BurguerManiaAPI.csproj",
+  "projectFilePath": "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\BurguerManiaAPI(1) - Copia\\BurguerManiaAPI\\BurguerManiaAPI\\BurguerManiaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crist\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\crist\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",

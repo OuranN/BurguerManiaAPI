@@ -3653,11 +3653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\BurguerManiaAPI(1) - Copia\\BurguerManiaAPI\\BurguerManiaAPI.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\BurguerManiaAPI(1) - Copia\\BurguerManiaAPI\\BurguerManiaAPI\\BurguerManiaAPI.csproj",
       "projectName": "BurguerManiaAPI",
-      "projectPath": "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\BurguerManiaAPI(1) - Copia\\BurguerManiaAPI\\BurguerManiaAPI.csproj",
+      "projectPath": "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\BurguerManiaAPI(1) - Copia\\BurguerManiaAPI\\BurguerManiaAPI\\BurguerManiaAPI.csproj",
       "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\BurguerManiaAPI(1) - Copia\\BurguerManiaAPI\\obj\\",
+      "outputPath": "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\BurguerManiaAPI(1) - Copia\\BurguerManiaAPI\\BurguerManiaAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
