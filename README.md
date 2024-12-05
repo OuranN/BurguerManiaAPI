@@ -35,3 +35,7 @@
 
 ## O FRONT-END JÁ ESTÁ INTEGRADO COM ESSA API (INSTRUÇÕES FRONT-END ESTARÃO NO README DO REPOSITÓRIO):
 [REPOSITÓRIO DO FRONT-END](https://github.com/OuranN/BurguerMania.git)
+
+
+  ##Recomendações ao testar a api
+  Faça um get de todos os elementos para verificar os ids, como foi realizado diversos testes, atualizações e remoções alguns ids não estão sequenciais, favor verificar antes realizando o get.
