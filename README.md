@@ -1,4 +1,5 @@
 # BurguerManiaAPI 🍔🍔🍔
+versão dotnet 8.0.402
 
 # 🖥️ Como executar o projeto (pelo vs code)
 
